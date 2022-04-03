@@ -1,5 +1,4 @@
 # odin-recipes
-Recipes Project using HTML5
 ## Recipes Project using _HTML5_
 ### My site contains 3 recipes 
 - Momos
